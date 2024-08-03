@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/04fd9412-014e-401d-8092-c21537367f73)# 프로젝트 소개
+# 프로젝트 소개
 MIDPOINT : 우리 어디서 만날까?
 
 중간값 알고리즘을 사용한
