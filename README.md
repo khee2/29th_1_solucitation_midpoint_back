@@ -1,4 +1,4 @@
-# 프로젝트 소개
+![image](https://github.com/user-attachments/assets/04fd9412-014e-401d-8092-c21537367f73)# 프로젝트 소개
 MIDPOINT : 우리 어디서 만날까?
 
 중간값 알고리즘을 사용한
@@ -54,8 +54,9 @@ MIDPOINT : 우리 어디서 만날까?
 
 ### 2. 홈 페이지
 - 로그인을 하지 않은 상태라면 즐겨찾기 장소나 즐겨찾기 친구를 클릭해도 '로그인 후 이용해주세요' 라는 문구가 뜹니다.
-- 아래 '검색 기록'에 현재 페이지에서 사용자가 검색한 장소 리스트들이 뜹니다.
-![스크린샷 2024-08-04 025757](https://github.com/user-attachments/assets/eccecc4b-1150-42b9-8cf2-b9a835d4c71a)
+- 아래 '검색 기록'에 현재 페이지에서 이전에 사용자가 검색한 장소 리스트들이 뜹니다.
+![image](https://github.com/user-attachments/assets/56d7c79d-3002-4b58-bd5f-9c614d3523ae)
+![image](https://github.com/user-attachments/assets/c9ba9621-3cfa-4d65-bb35-9a1f204e85a8)
 
 - 주소와 목적을 적절히 선택합니다. 선택한 장소는 상단부터 화면에 보여지며, 오른쪽 '삭제' 버튼을 통해 삭제가 가능합니다.
 - 주소를 선택시 등록한 친구의 주소를 선택할 수 있으며, 등록한 즐겨찾기 장소 중 하나를 선택할 수 있습니다.
