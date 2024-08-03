@@ -57,8 +57,10 @@ MIDPOINT : 우리 어디서 만날까?
 - 아래 '검색 기록'에 현재 페이지에서 사용자가 검색한 장소 리스트들이 뜹니다.
 ![스크린샷 2024-08-04 025757](https://github.com/user-attachments/assets/eccecc4b-1150-42b9-8cf2-b9a835d4c71a)
 
-- 주소와 목적을 적절히 선택합니다. 
-![스크린샷 2024-08-04 025813](https://github.com/user-attachments/assets/899755bc-78cb-4693-8062-dd099994db8a)
+- 주소와 목적을 적절히 선택합니다. 선택한 장소는 상단부터 화면에 보여지며, 오른쪽 '삭제' 버튼을 통해 삭제가 가능합니다.
+- 주소를 선택시 등록한 친구의 주소를 선택할 수 있으며, 등록한 즐겨찾기 장소 중 하나를 선택할 수 있습니다.
+- 등록한 즐겨찾기 장소는 집과 직장/학교입니다.
+![image](https://github.com/user-attachments/assets/aa566de2-f40b-4113-8f6c-6e5bf8ad8476)
 
 
 ### 3. 장소 페이지
@@ -69,11 +71,11 @@ MIDPOINT : 우리 어디서 만날까?
 ![스크린샷 2024-08-04 025847](https://github.com/user-attachments/assets/33170ca1-c168-4926-ba62-cbe526ef6ff2)
 
 - 장소 저장이나 공유를 하고 싶은 경우 '장소 선택'을 누른 뒤 '공유' 또는 '장소 저장' 버튼을 클릭합니다.
-- 공유
+  - 공유
 ![image](https://github.com/user-attachments/assets/f3b7c4d4-be53-4090-b300-e2db144aa459)
 
-- 장소 저장
-- 장소 저장한 장소는 마이페이지 > 검색기록에서 확인할 수 있습니다.
+  - 장소 저장
+    - 장소 저장한 장소는 마이페이지 > 검색기록에서 확인할 수 있습니다.
 ![스크린샷 2024-08-04 030028](https://github.com/user-attachments/assets/84d83d9c-7b9c-4485-aca2-3be90e7258b8)
 
 ### 4. 커뮤니티 게시판 
@@ -82,7 +84,7 @@ MIDPOINT : 우리 어디서 만날까?
 ![스크린샷 2024-08-04 030753](https://github.com/user-attachments/assets/396a7459-64be-424e-b83d-3125edab3a29)
 
 - 게시글 상세보기
-![Uploading 스크린샷 2024-08-04 030802.png…]()
+![스크린샷 2024-08-04 030811](https://github.com/user-attachments/assets/f0439d67-5eb2-484c-bb6a-d943c28e595f)
 
 - 게시판 등록
 ![스크린샷 2024-08-04 031135](https://github.com/user-attachments/assets/fa814cf1-5fac-4400-9549-339e92e44185)
@@ -110,7 +112,7 @@ MIDPOINT : 우리 어디서 만날까?
 ![스크린샷 2024-08-04 030355](https://github.com/user-attachments/assets/3381b7e3-2b8a-4fa8-9132-6aa84b558e46)
 
 - 상세보기
-![스크린샷 2024-08-04 030234](https://github.com/user-attachments/assets/327c0e12-15f1-4a63-b4fc-0568d118e4d8)
+![스크린샷 2024-08-04 030811](https://github.com/user-attachments/assets/cf450ae7-cdf0-45ff-9fc0-dca8574ed955)
 
 - 즐겿자기 장소 > 집 > 상세보기
 ![스크린샷 2024-08-04 030058](https://github.com/user-attachments/assets/ff6bacff-677b-4dc6-8937-27719ad5ed5a)
@@ -120,7 +122,6 @@ MIDPOINT : 우리 어디서 만날까?
 
 - 즐겨찾기 친구 추가하기
 ![스크린샷 2024-08-04 030229](https://github.com/user-attachments/assets/ba635fcf-bfa4-4291-9c06-50e2de527e7c)
-
 
 ## 6. 관련 주소
 - <a href="https://www.figma.com/design/QzDsktNnMnGtNBkqlKDQYj/%EC%86%94%EB%A3%A9%EC%85%98?node-id=3824-2402&t=O6WUCFepPLPCAHbg-1">Figma Address</a>
