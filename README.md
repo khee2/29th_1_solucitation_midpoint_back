@@ -103,26 +103,39 @@ MIDPOINT : 우리 어디서 만날까?
 - 사용자가 어떠한 목적을 선택할지 모를 때를 대비하여 목적 테스트를 만들었습니다. 
 ![스크린샷 2024-08-04 031826](https://github.com/user-attachments/assets/20c2307b-2a0b-43ee-8bff-91b28ebcebcc)
 ![스크린샷 2024-08-04 031830](https://github.com/user-attachments/assets/89735c26-38f3-4d9b-b778-f975dde9ea9f)
+![스크린샷 2024-08-04 031929](https://github.com/user-attachments/assets/5e003d74-ebf1-4551-b0ab-29804cdfd7c5)
 ![스크린샷 2024-08-04 031841](https://github.com/user-attachments/assets/82aa3c71-1d46-4d72-b894-b06f9050c321)
 
 ### 6. 즐겨찾기-장소, 즐겨찾기-친구
 - 즐겨찾기 장소 추가, 편집, 삭제, 리스트 보기, 상세 보기(친구 이름, 주소)가 가능합니다.
 - 잘겨찾기 친구 추가, 편집, 삭제, 리스트 보기, 상세 보기(장소 이름,주소)가 가능합니다.
   
-- 전체 리스트 보기 
+- 즐겨찾기 장소, 친구 전체 리스트 보기 
 ![스크린샷 2024-08-04 030355](https://github.com/user-attachments/assets/3381b7e3-2b8a-4fa8-9132-6aa84b558e46)
 
-- 상세보기
-![스크린샷 2024-08-04 030811](https://github.com/user-attachments/assets/cf450ae7-cdf0-45ff-9fc0-dca8574ed955)
+- 즐겨찾기 장소 > 집 > 등록
+![스크린샷 2024-08-04 030052](https://github.com/user-attachments/assets/3af89ce2-65d1-4ceb-8873-ebce9d048d68)
 
-- 즐겿자기 장소 > 집 > 상세보기
-![스크린샷 2024-08-04 030058](https://github.com/user-attachments/assets/ff6bacff-677b-4dc6-8937-27719ad5ed5a)
+- 즐겨찾기 장소 > 집 > 상세보기
+![스크린샷 2024-08-04 030058](https://github.com/user-attachments/assets/7e1fd8d0-6e0c-487b-9f06-a3adf3a219a6)
 
 - 즐겨찾기 장소 > 집 > 편집하기
-![스크린샷 2024-08-04 030111](https://github.com/user-attachments/assets/1798b143-17e1-49b6-b92a-9e53cdb54c6d)
+![스크린샷 2024-08-04 030111](https://github.com/user-attachments/assets/215d8003-1f29-4acf-b719-b624c7260984)
 
-- 즐겨찾기 친구 추가하기
-![스크린샷 2024-08-04 030229](https://github.com/user-attachments/assets/ba635fcf-bfa4-4291-9c06-50e2de527e7c)
+- 즐겨찾기 장소 > 직장/학교 > 삭제하기
+- 마찬가지로 등록, 상세보기, 편집하기도 모두 가능하지만, 설명에는 생략했습니다.
+
+![스크린샷 2024-08-04 030154](https://github.com/user-attachments/assets/84e95de7-d6cc-4199-88ab-525500c11a43)
+![스크린샷 2024-08-04 030158](https://github.com/user-attachments/assets/a6bc0311-f5d1-440e-9a57-06675cd75ba4)
+
+
+- 즐겨찾기 친구 > 등록
+![스크린샷 2024-08-04 030229](https://github.com/user-attachments/assets/935aa845-df62-4fb6-ba60-e7a5647b39f7)
+
+- 즐겨찾기 친구 상세보기
+![스크린샷 2024-08-04 030234](https://github.com/user-attachments/assets/f5cea657-7d28-43e3-a3f7-e92a1b8703bb)
+
+- 마찬가지로 즐겨찾기 수정, 삭제가 모두 가능하지만, 생략하도록 하겠습니다. 
 
 ## 6. 관련 주소
 - <a href="https://www.figma.com/design/QzDsktNnMnGtNBkqlKDQYj/%EC%86%94%EB%A3%A9%EC%85%98?node-id=3824-2402&t=O6WUCFepPLPCAHbg-1">Figma Address</a>
@@ -140,11 +153,11 @@ MIDPOINT : 우리 어디서 만날까?
 - 즐겨찾기 장소/친구
 
 ## 👩‍💻 역할 분담
-| 이름   | 프로필                                                              | 역할분담 |
-| ------ | ------------------------------------------------------------------- | ------- |
-| 노경희 | <img src="https://github.com/user-attachments/assets/f00d127b-695e-48e0-9f94-c21a87582dcc" width="100"/> | 회원가입/로그인, api 명세서 |
-| 문서현 | <img src="https://github.com/user-attachments/assets/494b790b-7d8f-4aff-b86a-8f641f08cb29" width="100"/> | 목적에 맞는 중간지점 찾기, 즐겨찾기 장소/친구 |
-| 최연재 | <img src="https://github.com/user-attachments/assets/3edd11dd-ef2d-46c0-9c5f-5ade1b3b7d75" width="100"/> | 커뮤니티 게시판, erd 설계 |
+|     이름         | 프로필                                                              |                                      역할분담                         |
+| ---------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 노경희 | <img src="https://github.com/user-attachments/assets/f00d127b-695e-48e0-9f94-c21a87582dcc" width="120"/> | api 명세서, 초기 세팅, 회원가입, 이메일 인증, (카카오 로그인), 로그아웃, 회원정보 조회 및 수정, 회원 탈퇴, 백엔드 배포 |
+| 문서현 | <img src="https://github.com/user-attachments/assets/494b790b-7d8f-4aff-b86a-8f641f08cb29" width="120"/> | 목적에 맞는 중간지점 찾기, 중간 지점 주변 장소 필터링하기, 특정 장소에 대한 구글 리뷰 끌어오기, 즐겨찾기 장소/친구 등록, 수정, 삭제, 상세보기, 즐겨찾기 리스트 보기 |
+| 최연재 | <img src="https://github.com/user-attachments/assets/3edd11dd-ef2d-46c0-9c5f-5ade1b3b7d75" width="120"/> | ERD, 커뮤니티 게시판 (리뷰 게시판)의 글 등록, 수정, 삭제, 상세보기, 좋아요, 해시태그 및 키워드 검색, 장소 검색 기록 저장 및 조회 |
 
 
 ## 🌳 프로젝트 구조
